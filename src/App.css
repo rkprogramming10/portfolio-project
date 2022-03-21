@@ -86,3 +86,12 @@ nav ul li{
 .navbar-nav >li >a:hover{
   border-top: 0.1875rem solid var(--primary-indigo);
 }
+/*************Header***************/
+
+.header-wraper {
+  position: relative;
+  background: url(wall.jpg) no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 90vh;
+}
